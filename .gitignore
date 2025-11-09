@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints/
+.DS_Store
+
+# Virtual env
+venv/
+.env/
+.venv/
+
+# Logs & outputs
+logs/
+runs/
+wandb/
+
+# Model / weights / artifacts
+*.pt
+*.pth
+*.h5
+*.ckpt
+checkpoints/
+models/
+
+# Data (원하면 조정)
+data/
+datasets/
