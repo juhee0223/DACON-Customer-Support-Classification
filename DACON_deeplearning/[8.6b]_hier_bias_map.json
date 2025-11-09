@@ -1,0 +1,37 @@
+{
+  "chosen_keys": [
+    "gender_subscription"
+  ],
+  "bias_map": {
+    "gender_subscription=F_member": [
+      0.1,
+      0.05,
+      -0.08785670916818458
+    ],
+    "gender_subscription=F_plus": [
+      0.1220873786407767,
+      0.05,
+      0.1104368932038835
+    ],
+    "gender_subscription=F_vip": [
+      0.14415774099318404,
+      0.09415774099318404,
+      0.022078870496592018
+    ],
+    "gender_subscription=M_member": [
+      0.16777804525758305,
+      0.09518536350505537,
+      0.09037072701011074
+    ],
+    "gender_subscription=M_plus": [
+      0.1908130454754249,
+      0.05,
+      -0.04540652273771245
+    ],
+    "gender_subscription=M_vip": [
+      0.07731839258114374,
+      0.05,
+      -0.13608964451313757
+    ]
+  }
+}

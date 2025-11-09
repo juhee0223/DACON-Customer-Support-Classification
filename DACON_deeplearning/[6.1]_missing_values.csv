@@ -1,0 +1,16 @@
+,train_missing,test_missing
+after_interaction,0,0
+age,0,0
+age_group,0,0
+contract_length,0,0
+delay_ratio,0,0
+frequent,0,0
+gender,0,0
+idle_ratio,0,0
+late_flag,0,0
+payment_interval,0,0
+risk_score,0,0
+subscription_type,0,0
+tenure,0,0
+tenure_per_contract,0,0
+total_usage_score,0,0
